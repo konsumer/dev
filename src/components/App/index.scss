@@ -1,0 +1,12 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  overflow:none;
+  display:flex;
+  flex-direction: column;
+  
+  #content {
+    padding: 20px;
+    overflow: auto;
+  }
+}
