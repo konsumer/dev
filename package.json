@@ -21,7 +21,7 @@
     "react": "^15.1.0",
     "react-dom": "^15.1.0"
   },
-  "engines": { "node": "0.12.7", "npm": "2.11.3" },
+  "engines": { "node": "5.5.0", "npm": "3.10.5" },
   "babel": {
     "presets": [
       "es2015",
