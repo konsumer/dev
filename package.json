@@ -23,9 +23,7 @@
     "react": "^15.1.0",
     "react-dom": "^15.1.0"
   },
-  "engines": {
-    "node": "4.0.0"
-  },
+  "engines": { "node": "0.12.7", "npm": "2.11.3" },
   "babel": {
     "presets": [
       "es2015",
