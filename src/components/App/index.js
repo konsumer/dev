@@ -1,7 +1,6 @@
 import React from 'react'
 
 import pipe from '../../pipe'
-import style from './index.scss'
 import Markdown from '../Markdown'
 import Header from '../Header'
 import Keys from '../Keys'
